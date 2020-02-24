@@ -1,11 +1,11 @@
 package exemplos;
 
+
 public class Retangulo {
     public Double base;
     public Double altura;
 
-    public Doub
-    le calcularArea() {
+    public Double calcularArea() {
         return base * altura;
     }
 
