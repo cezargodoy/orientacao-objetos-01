@@ -1,6 +1,6 @@
-package exercicios;
+package Exercicios;
 
-public class Circulo{
+public class gitCirculo{
 
     public Double pi;
     public Double raio;
