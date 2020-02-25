@@ -1,4 +1,4 @@
-package exercicios;
+package Exercicios;
 
 import exercicios.Circulo;
 import org.junit.jupiter.api.Test;

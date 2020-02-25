@@ -1,4 +1,4 @@
-package exemplos;
+package Exercicios;
 
 public class Correntista {
     public Integer codigo;

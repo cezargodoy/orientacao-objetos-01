@@ -1,4 +1,4 @@
-package exercicios;
+package Exercicios;
 
 import exercicios.Correntista;
 import org.junit.jupiter.api.Test;
